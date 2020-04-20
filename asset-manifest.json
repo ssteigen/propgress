@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/propgress/static/css/main.5f361e03.chunk.css",
+    "main.js": "/propgress/static/js/main.ee8c9835.chunk.js",
+    "main.js.map": "/propgress/static/js/main.ee8c9835.chunk.js.map",
+    "runtime-main.js": "/propgress/static/js/runtime-main.b6b9aee7.js",
+    "runtime-main.js.map": "/propgress/static/js/runtime-main.b6b9aee7.js.map",
+    "static/js/2.d811afa8.chunk.js": "/propgress/static/js/2.d811afa8.chunk.js",
+    "static/js/2.d811afa8.chunk.js.map": "/propgress/static/js/2.d811afa8.chunk.js.map",
+    "index.html": "/propgress/index.html",
+    "precache-manifest.690ba9cf4f0eee18b27b284cd19aa8e6.js": "/propgress/precache-manifest.690ba9cf4f0eee18b27b284cd19aa8e6.js",
+    "service-worker.js": "/propgress/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/propgress/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d811afa8.chunk.js.LICENSE.txt": "/propgress/static/js/2.d811afa8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/propgress/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6b9aee7.js",
+    "static/js/2.d811afa8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ee8c9835.chunk.js"
+  ]
+}
