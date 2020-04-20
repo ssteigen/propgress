@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7eded55c58b65f8cc4d13d94ead5e12",
+    "revision": "bddb98396af252831909cc9041b2ec7a",
     "url": "/propgress/index.html"
   },
   {
-    "revision": "49b56e963f4c4c9a94f0",
+    "revision": "ce841709c2995bba63f6",
     "url": "/propgress/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/propgress/static/js/2.d811afa8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "49b56e963f4c4c9a94f0",
-    "url": "/propgress/static/js/main.ee8c9835.chunk.js"
+    "revision": "ce841709c2995bba63f6",
+    "url": "/propgress/static/js/main.06b848c6.chunk.js"
   },
   {
     "revision": "fcf093ab8aa2c48791e2",
     "url": "/propgress/static/js/runtime-main.b6b9aee7.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/propgress/static/media/logo.5d5d9eef.svg"
+    "revision": "d23c2dde0892d5c67b9148d3332aff8c",
+    "url": "/propgress/static/media/logo.d23c2dde.svg"
   }
 ]);
