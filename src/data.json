@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Rhaphidophora tetrasperma",
+    "otherNames": ["Mini Monstera"],
+    "summary": "Rhaphidophora Tetrasperma, also commonly known as Mini Monstera, is a tropical plant known for its climbing nature.",
+    "light": "Moderate to bright",
+    "soil": "Aroid mix",
+    "water": "All top 1 inch to dry between waterings",
+    "temperature": "65-75°F",
+    "humidity": "40% or higher",
+    "fertilizer": "some notes here",
+    "propagation": "stem cuttings",
+    "petSafe": false,
+    "image": "rhaphidophora-tetrasperma.jpeg"
+  },
+  {
+    "name": "Epipremnum aureum",
+    "otherNames": ["Golden Pothos", "Devil's Ivy"],
+    "summary": "Extremely easy to grow, pothos is a popular house plant well known for its long, trailing stems that can grow to 8 ft (2.4 m) or more.",
+    "light": "Low to bright",
+    "soil": "Aroid mix",
+    "water": "All top 1 inch to dry between waterings",
+    "temperature": "65-80°F",
+    "humidity": "40% or higher",
+    "propagation": "stem cuttings",
+    "petSafe": false,
+    "image": "epipremnum-aureum.jpeg"
+  },
+  {
+    "name": "Philodendron scandens",
+    "otherNames": ["Heartleaf Philodendron", "Sweetheart Plant"],
+    "summary": "Heartleaf philodendron is a popular house plant because it is extremely easy to grow. It's also known as the Sweetheart Plant.",
+    "light": "Moderate to bright",
+    "soil": "Peat moss-based mix",
+    "water": "keep soil moist",
+    "temperature": "65-75°F",
+    "humidity": "40% or higher",
+    "propagation": "stem cuttings",
+    "petSafe": false,
+    "image": "philodendron-scandens.jpeg"
+  }
+]
